@@ -1,0 +1,5 @@
+"This is the first test file. This file contains the keyword example and test.",
+"Here is the second file. It has the keyword test but not the other one.",
+"And this is the third. It mentions example as a key term, alongside a random text."
+
+
